@@ -1,0 +1,17 @@
+#[derive(Parser)]
+pub struct Flag {
+    _offset: u8,
+    _gap: u8,
+    _flag: u8
+}
+
+====================
+
+pub fn add_flag(&mut self, flag: u8) {
+    let input = [2, gap_types::FLAGS, flag];
+    Flag::parse_and_create(true, &input);
+
+    self.bytes.push(2);
+    self.bytes.push(gap_types::FLAGS);
+    self.bytes.push(flag);
+}

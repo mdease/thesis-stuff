@@ -1,0 +1,61 @@
+/// TBF fields that must be present in all v2 headers.
+#[repr(C)]
+#[derive(Clone, Copy, Debug, Parser)]
+crate struct TbfHeaderV2Base {
+    version: u16,
+    header_size: u16,
+    total_size: u32,
+    flags: u32,
+    checksum: u32,
+}
+
+/// Types in TLV structures for each optional block of the header.
+#[repr(u16)]
+#[derive(Clone, Copy, Debug)]
+#[allow(dead_code)]
+crate enum TbfHeaderTypes {
+    TbfHeaderMain = 1,
+    TbfHeaderWriteableFlashRegions = 2,
+    TbfHeaderPackageName = 3,
+    Unused = 5,
+}
+
+/// The TLV header (T and L).
+#[repr(C)]
+#[derive(Clone, Copy, Debug)]
+crate struct TbfHeaderTlv {
+    tipe: TbfHeaderTypes,
+    length: u16,
+}
+
+/// The v2 main section for apps.
+///
+/// All apps must have a main section. Without it, the header is considered as
+/// only padding.
+#[repr(C)]
+#[derive(Clone, Copy, Debug, Parser)]
+crate struct TbfHeaderV2Main {
+    init_fn_offset: u32,
+    protected_size: u32,
+    minimum_ram_size: u32,
+}
+
+/// Writeable flash regions only need an offset and size.
+///
+/// There can be multiple (or zero) flash regions defined, so this is its own
+/// struct.
+#[repr(C)]
+#[derive(Clone, Copy, Debug, Parser)]
+crate struct TbfHeaderV2WriteableFlashRegion {
+    writeable_flash_region_offset: u32,
+    writeable_flash_region_size: u32,
+}
+
+/// Single header that can contain all parts of a v2 header.
+#[derive(Clone, Copy, Debug)]
+crate struct TbfHeaderV2 {
+    base: &'static TbfHeaderV2Base,
+    main: Option<&'static TbfHeaderV2Main>,
+    package_name: Option<&'static str>,
+    writeable_regions: Option<&'static [TbfHeaderV2WriteableFlashRegion]>,
+}

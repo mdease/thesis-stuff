@@ -1,0 +1,48 @@
+#[allow(dead_code)]
+#[derive(Parser)]
+struct Command {
+    driver_number: usize,
+    subdriver_number: usize,
+    arg0: usize,
+    arg1: usize,
+}
+
+====================
+
+let mut offset = 0;
+
+let input = slice::from_raw_parts(stack_pointer as *const u8, 4 * 64);
+let command = Command::create(true, &mut offset, input);
+
+// let command = Command {
+//     driver_number: r0,
+//     subdriver_number: r1,
+//     arg0: r2,
+//     arg1: r3,
+// };
+
+// // MDD PARSE LOCATION
+// Command::validate(&command as *const Command as *const u8);
+
+// if r0 == 196608 {
+//     r0 = read_volatile(stack_pointer);
+//     r1 = read_volatile((stack_pointer as *const u64).offset(1)) as usize;
+//     r2 = read_volatile((stack_pointer as *const u64).offset(2)) as usize;
+//     r3 = read_volatile((stack_pointer as *const u64).offset(3)) as usize;
+
+//     debug!("{} {} {} {}", r0, r1, r2, r3);
+// }
+
+// Some(kernel::syscall::Syscall::COMMAND {
+//     driver_number:      command.driver_number,
+//     subdriver_number:   command.subdriver_number,
+//     arg0:               command.arg0,
+//     arg1:               command.arg1,
+// })
+
+Some(kernel::syscall::Syscall::COMMAND {
+    driver_number: r0,
+    subdriver_number: r1,
+    arg0: r2,
+    arg1: r3,
+})
