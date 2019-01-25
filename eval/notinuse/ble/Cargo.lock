@@ -1,0 +1,65 @@
+[[package]]
+name = "ble"
+version = "0.1.0"
+dependencies = [
+ "pest 2.0.0",
+ "pest_derive 2.0.0",
+]
+
+[[package]]
+name = "byteorder"
+version = "0.5.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "pest"
+version = "2.0.0"
+dependencies = [
+ "byteorder 0.5.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "pest_derive"
+version = "2.0.0"
+dependencies = [
+ "pest 2.0.0",
+ "pest_meta 2.0.0",
+ "quote 0.5.2",
+ "syn 0.13.11",
+]
+
+[[package]]
+name = "pest_meta"
+version = "2.0.0"
+
+[[package]]
+name = "proc-macro2"
+version = "0.3.8"
+dependencies = [
+ "unicode-xid 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "quote"
+version = "0.5.2"
+dependencies = [
+ "proc-macro2 0.3.8",
+]
+
+[[package]]
+name = "syn"
+version = "0.13.11"
+dependencies = [
+ "proc-macro2 0.3.8",
+ "quote 0.5.2",
+ "unicode-xid 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "unicode-xid"
+version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum byteorder 0.5.3 (registry+https://github.com/rust-lang/crates.io-index)" = "0fc10e8cc6b2580fda3f36eb6dc5316657f812a3df879a44a66fc9f0fdbc4855"
+"checksum unicode-xid 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "fc72304796d0818e357ead4e000d19c9c174ab23dc11093ac919054d20a6a7fc"

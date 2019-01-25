@@ -1,0 +1,2100 @@
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8640
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8640
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8639, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8640
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8629
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8639
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8638, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8633, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8636, 8636
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8629, 8632
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8638
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8635, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8634, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8633
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8637, 8637
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8630, 8630
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8631
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8632, 8635
+Initialization complete. Entering main loop
+NRF52-DK HW INFO: Variant: AAB0, Part: N52832, Package: QF, Ram: K64, Flash: K512
+8631, 8634

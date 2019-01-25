@@ -1,0 +1,8 @@
+[package]
+name = "app_header"
+version = "0.1.0"
+authors = ["Maddie <mdd@mit.edu>"]
+
+[dependencies]
+pest = { path = "../../pest/pest" }
+pest_derive = { path = "../../pest/derive" }
